@@ -101,5 +101,20 @@ Bearer <your_access_token>
 
 ---
 
+```
+
+
+## Contact
+
+My mail: zahra.amanli.za@gmail.com
+
+My LinkedIn profile: www.linkedin.com/in/zahra-amanli 
+
+
+
+---
+
+**Zahra Amanli..**
+
 
 
