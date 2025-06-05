@@ -1,4 +1,3 @@
----
 
 ```markdown
 # FastAPI Blog API
