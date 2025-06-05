@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+sqlalchemy==2.0.25
+pydantic==1.10.11
+PyMySQL==1.0.3
+python-jwt==3.3.1
+passlib[bcrypt]==1.7.4
