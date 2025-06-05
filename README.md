@@ -1,5 +1,4 @@
 
-```markdown
 # FastAPI Blog API
 
 A simple blog API built with FastAPI. This project supports user registration, login (with JWT authentication), adding posts, viewing posts, and deleting posts. The database used is SQLite (out-of-the-box, no setup required).
