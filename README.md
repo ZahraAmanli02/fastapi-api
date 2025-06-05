@@ -1,5 +1,3 @@
-Of course! Here’s a ready-to-copy **README.md** for your FastAPI project in English:
-
 ---
 
 ```markdown
