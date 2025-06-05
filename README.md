@@ -102,16 +102,5 @@ Bearer <your_access_token>
 
 ---
 
-## License
-
-This project is provided for educational purposes.
-
----
-
-> For questions or contributions, feel free to open an issue!
-
-```
-
----
 
 
