@@ -20,7 +20,7 @@ app/
 │    └── users.py
 ├── schemas.py
 └── utils.py
-fastapi\_app.db
+fastapi_app.db
 requirements.txt
 
 ````
